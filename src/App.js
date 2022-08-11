@@ -11,7 +11,7 @@ const[message, setMessage] = useState('');
 let imgSrc = "";
 
   return (
-    <div className="App">
+    <div className="app">
       <div className='container'>
 
       <h2 className='center' >BMI Calculator</h2>

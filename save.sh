@@ -2,7 +2,7 @@
 
 directory=$(pwd)
 echo $directory
-while inotifywait -e modify $(pwd); do
+while inotifywait -r -e modify $(pwd); do
     git add .
     git checkout -b Important
     git commit -m "dellLap"

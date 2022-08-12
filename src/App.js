@@ -28,7 +28,7 @@ if(weight===0|| height ===0){
       <div className='container'>
 
       <h2 className='center' >BMI Calculator</h2>
-      <form onSubmit={}>
+      <form onSubmit={calc}>
       <div>
         <label>Weight</label>
         <input onChange={(event) => setWeight(event.target.value)} value={weight}/>

@@ -18,6 +18,7 @@ if(weight===0|| height ===0){
 } else{
 
   let bmi = (weight/(height*height)*703)
+  set
 }
 
 }

@@ -35,7 +35,7 @@ if(weight===0|| height ===0){
       </div>
       <div>
         <label>Height</label>
-        <input value={height}/>
+        <input on value={height}/>
       </div>
       <div>
         <button className='btn' type='submit'>Submit</button>

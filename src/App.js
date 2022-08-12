@@ -25,7 +25,7 @@ if(weight===0|| height ===0){
 
 let reload =()=>{
 
-  window.location.reload
+  window.location.reload()
 }
 
   return (

@@ -44,7 +44,7 @@ let reload =()=>{
       </div>
       <div>
         <button className='btn' type='submit'>Submit</button>
-        <button className='btn btn-outline' onClick={re} type='submit'>Reload</button>
+        <button className='btn btn-outline' onClick={reload} type='submit'>Reload</button>
       </div>
 
 

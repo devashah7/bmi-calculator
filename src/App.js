@@ -12,7 +12,7 @@ let imgSrc = "";
 let calcBmi =(event) =>{
 
 event.preventDefault()
-if(weight===0)
+if(weight===0|| height ===0)
 
 }
 

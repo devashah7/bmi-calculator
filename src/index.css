@@ -22,5 +22,6 @@ padding: 0;
 .app{
 
 display: flex;
+flex-direction: col;
 
 }

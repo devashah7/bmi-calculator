@@ -39,7 +39,7 @@ if(weight===0|| height ===0){
       </div>
       <div>
         <button className='btn' type='submit'>Submit</button>
-        <button className='btn btn-outline' type='submit'>Submit</button>
+        <button className='btn btn-outline' type='submit'>Clear</button>
       </div>
 
 

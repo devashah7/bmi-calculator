@@ -9,7 +9,7 @@ const[height, setHeight] = useState(0);
 const[bmi, setBmi] = useState('');
 const[message, setMessage] = useState('');
 let imgSrc = "";
-let cal
+let calcBMI
 
   return (
     <div className="app">

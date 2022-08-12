@@ -17,7 +17,7 @@ if(weight===0|| height ===0){
   alert('Please enter vali values')
 } else{
 
-  let bmi = 
+  let bmi = (w)
 }
 
 }

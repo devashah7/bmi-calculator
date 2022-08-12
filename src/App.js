@@ -11,7 +11,7 @@ const[message, setMessage] = useState('');
 let imgSrc = "";
 let calcBmi =(event) =>{
 
-event.preventDe
+event.preventDefault
 
 }
 

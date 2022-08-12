@@ -35,7 +35,7 @@ if(weight===0|| height ===0){
       </div>
       <div>
         <label>Height</label>
-        <input onChange={(event)=> set} value={height}/>
+        <input onChange={(event)=> setWeight} value={height}/>
       </div>
       <div>
         <button className='btn' type='submit'>Submit</button>

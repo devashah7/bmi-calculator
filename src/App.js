@@ -31,7 +31,7 @@ if(weight===0|| height ===0){
       <form>
       <div>
         <label>Weight</label>
-        <input value={weight}/>
+        <input onChange={(event) => setWeight(event.target.value)} value={weight}/>
       </div>
       <div>
         <label>Height</label>

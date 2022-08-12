@@ -6,7 +6,7 @@ function App() {
 //state
 //17:00
 const[weight, setWeight] = useState();
-const[height, setHeight] = useState(0);
+const[height, setHeight] = useState();
 const[bmi, setBmi] = useState('');
 const[message, setMessage] = useState('');
 let imgSrc = "";

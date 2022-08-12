@@ -24,6 +24,7 @@ if(weight===0|| height ===0){
 }
 
 let reload =()=>{
+
   
 }
 

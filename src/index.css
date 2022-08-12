@@ -49,6 +49,7 @@ border-radius: 8px;
 }
 .btn{
 display: block;
-width: 100;
+width: 100%;
+
 
 }
